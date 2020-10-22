@@ -1,2 +1,2 @@
 # lab-ingsw
-Lab di Ingeneria del Software
+Lab di Ingegneria del Software
